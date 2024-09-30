@@ -7,7 +7,7 @@
 <div align="center">
   <h2>Statistics</h2>
   <br> 
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=entroxxtpm&theme=highcontrast" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=entroxx&theme=highcontrast" alt="GitHub Streak" /></a>
 </div>
 <div align="center" style="display: flex; gap: 20px;">
   <h3>🔧 I mainly use</h3>
