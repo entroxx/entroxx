@@ -3,7 +3,8 @@
 
 <b>I'm Entroxx (he/him)</b> - I'm a fullstack developer, designer, moderator and high school student. I'm interested in tech & automobiles. I'm working on random projects in my free time, a lot involving Discord.
 <div align="center">
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,vsc,figma,bots,blender,aws)](https://skillicons.dev)
-
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,vscode,lua,figma,ps,powershell,discord,blender,azure,cloudflare,windows,aws"/>
+  </a>
 </div>
 
