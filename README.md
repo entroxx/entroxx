@@ -1,5 +1,5 @@
 
-<div align="center"><h1> Hi there 👋 </h1></div>
+<div align="left"><h1> Hey there! 👋 </h1></div>
 
 - 🔭 I’m currently working on [interrupted.me](https://interrupted.me)
 - 🌱 I’m currently learning Python & JavaScript
